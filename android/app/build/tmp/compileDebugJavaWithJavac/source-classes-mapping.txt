@@ -1,0 +1,14 @@
+com/musicplayerapp/BuildConfig.java
+ com.musicplayerapp.BuildConfig
+com/musicplayerapp/MainApplication.java
+ com.musicplayerapp.MainApplication
+ com.musicplayerapp.MainApplication$1
+com/musicplayerapp/ReactNativeFlipper.java
+ com.musicplayerapp.ReactNativeFlipper
+ com.musicplayerapp.ReactNativeFlipper$1
+ com.musicplayerapp.ReactNativeFlipper$2
+ com.musicplayerapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/musicplayerapp/MainActivity.java
+ com.musicplayerapp.MainActivity
