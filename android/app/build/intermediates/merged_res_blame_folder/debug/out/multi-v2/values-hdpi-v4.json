@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Avigma\\MusicPlayerApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "/Users/avigma/Minal/Project/music player/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\2ddb685ed011f58b64a72294741986c7\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/Users/avigma/.gradle/caches/transforms-3/2ddb685ed011f58b64a72294741986c7/transformed/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -9,291 +9,291 @@
 9        android:targetSdkVersion="30" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->E:\Avigma\MusicPlayerApp\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->E:\Avigma\MusicPlayerApp\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->/Users/avigma/Minal/Project/music player/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/avigma/Minal/Project/music player/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:4:5-67
-12-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:4:22-64
+12-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->[com.facebook.flipper:flipper:0.93.0] C:\Users\admin\.gradle\caches\transforms-3\4e00d0c62026208410ba30c24b85472b\transformed\jetified-flipper-0.93.0\AndroidManifest.xml:16:5-76
-13-->[com.facebook.flipper:flipper:0.93.0] C:\Users\admin\.gradle\caches\transforms-3\4e00d0c62026208410ba30c24b85472b\transformed\jetified-flipper-0.93.0\AndroidManifest.xml:16:22-73
+13-->[com.facebook.flipper:flipper:0.93.0] /Users/avigma/.gradle/caches/transforms-3/4e00d0c62026208410ba30c24b85472b/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.93.0] /Users/avigma/.gradle/caches/transforms-3/4e00d0c62026208410ba30c24b85472b/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
 14    <uses-permission android:name="android.permission.WAKE_LOCK" />
-14-->[:react-native-firebase_auth] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
-14-->[:react-native-firebase_auth] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+14-->[:react-native-firebase_auth] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+14-->[:react-native-firebase_auth] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[:react-native-firebase_auth] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
-15-->[:react-native-firebase_auth] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+15-->[:react-native-firebase_auth] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+15-->[:react-native-firebase_auth] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
 16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-16-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-77
-16-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-74
+16-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+16-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-74
 17
 18    <application
-18-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:6:5-24:19
+18-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:6:5-24:19
 19        android:name="com.musicplayerapp.MainApplication"
-19-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:7:7-38
+19-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:7:7-38
 20        android:allowBackup="false"
-20-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:11:7-34
+20-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:11:7-34
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.3.0-rc01] C:\Users\admin\.gradle\caches\transforms-3\42476277d6f59c09edf97a0e84eb0998\transformed\core-1.3.0-rc01\AndroidManifest.xml:24:18-86
+21-->[androidx.core:core:1.3.0-rc01] /Users/avigma/.gradle/caches/transforms-3/42476277d6f59c09edf97a0e84eb0998/transformed/core-1.3.0-rc01/AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:icon="@mipmap/ic_launcher"
-23-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:9:7-41
+23-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:9:7-41
 24        android:label="@string/app_name"
-24-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:8:7-39
+24-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:8:7-39
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:10:7-52
+25-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:10:7-52
 26        android:theme="@style/AppTheme"
-26-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:12:7-38
+26-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:12:7-38
 27        android:usesCleartextTraffic="true" >
-27-->E:\Avigma\MusicPlayerApp\android\app\src\debug\AndroidManifest.xml:8:9-44
+27-->/Users/avigma/Minal/Project/music player/android/app/src/debug/AndroidManifest.xml:8:9-44
 28        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-28-->E:\Avigma\MusicPlayerApp\android\app\src\debug\AndroidManifest.xml:11:9-86
-28-->E:\Avigma\MusicPlayerApp\android\app\src\debug\AndroidManifest.xml:11:19-83
+28-->/Users/avigma/Minal/Project/music player/android/app/src/debug/AndroidManifest.xml:11:9-86
+28-->/Users/avigma/Minal/Project/music player/android/app/src/debug/AndroidManifest.xml:11:19-83
 29        <activity
-29-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:13:7-23:18
+29-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:13:7-23:18
 30            android:name="com.musicplayerapp.MainActivity"
-30-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:14:9-37
+30-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:14:9-37
 31            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-31-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:16:9-86
+31-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:16:9-86
 32            android:label="@string/app_name"
-32-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:15:9-41
+32-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:15:9-41
 33            android:launchMode="singleTask"
-33-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:17:9-40
+33-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:17:9-40
 34            android:windowSoftInputMode="adjustResize" >
-34-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:18:9-51
+34-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:18:9-51
 35            <intent-filter>
-35-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:19:9-22:25
+35-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:19:9-22:25
 36                <action android:name="android.intent.action.MAIN" />
-36-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:20:13-65
-36-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:20:21-62
+36-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:20:13-65
+36-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:20:21-62
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:21:13-73
-38-->E:\Avigma\MusicPlayerApp\android\app\src\main\AndroidManifest.xml:21:23-70
+38-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:21:13-73
+38-->/Users/avigma/Minal/Project/music player/android/app/src/main/AndroidManifest.xml:21:23-70
 39            </intent-filter>
 40        </activity>
 41
 42        <meta-data
-42-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:36
+42-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
 43            android:name="app_data_collection_default_enabled"
-43-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
+43-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 44            android:value="true" />
-44-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-33
+44-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
 45
 46        <service
-46-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:19
+46-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
 47            android:name="com.google.firebase.components.ComponentDiscoveryService"
-47-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-89
+47-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
 48            android:directBootAware="true"
-48-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+48-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 49            android:exported="false" >
-49-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+49-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
 50            <meta-data
-50-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:85
+50-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
 51                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
-51-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-120
+51-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
 52                android:value="com.google.firebase.components.ComponentRegistrar" />
-52-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+52-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
 53            <meta-data
-53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+53-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
 54                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-54-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+54-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
 55                android:value="com.google.firebase.components.ComponentRegistrar" />
-55-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+55-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
 56            <meta-data
-56-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\041dee8a9cf60301dcb759d4c913f537\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+56-->[com.google.firebase:firebase-storage:20.0.0] /Users/avigma/.gradle/caches/transforms-3/041dee8a9cf60301dcb759d4c913f537/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
 57                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-57-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\041dee8a9cf60301dcb759d4c913f537\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+57-->[com.google.firebase:firebase-storage:20.0.0] /Users/avigma/.gradle/caches/transforms-3/041dee8a9cf60301dcb759d4c913f537/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
 58                android:value="com.google.firebase.components.ComponentRegistrar" />
-58-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\041dee8a9cf60301dcb759d4c913f537\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+58-->[com.google.firebase:firebase-storage:20.0.0] /Users/avigma/.gradle/caches/transforms-3/041dee8a9cf60301dcb759d4c913f537/transformed/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
 59            <meta-data
-59-->[com.google.firebase:firebase-database:20.0.1] C:\Users\admin\.gradle\caches\transforms-3\002162da4cb456c875f5284dff4af6d1\transformed\jetified-firebase-database-20.0.1\AndroidManifest.xml:32:13-34:85
+59-->[com.google.firebase:firebase-database:20.0.1] /Users/avigma/.gradle/caches/transforms-3/002162da4cb456c875f5284dff4af6d1/transformed/jetified-firebase-database-20.0.1/AndroidManifest.xml:32:13-34:85
 60                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-60-->[com.google.firebase:firebase-database:20.0.1] C:\Users\admin\.gradle\caches\transforms-3\002162da4cb456c875f5284dff4af6d1\transformed\jetified-firebase-database-20.0.1\AndroidManifest.xml:33:17-109
+60-->[com.google.firebase:firebase-database:20.0.1] /Users/avigma/.gradle/caches/transforms-3/002162da4cb456c875f5284dff4af6d1/transformed/jetified-firebase-database-20.0.1/AndroidManifest.xml:33:17-109
 61                android:value="com.google.firebase.components.ComponentRegistrar" />
-61-->[com.google.firebase:firebase-database:20.0.1] C:\Users\admin\.gradle\caches\transforms-3\002162da4cb456c875f5284dff4af6d1\transformed\jetified-firebase-database-20.0.1\AndroidManifest.xml:34:17-82
+61-->[com.google.firebase:firebase-database:20.0.1] /Users/avigma/.gradle/caches/transforms-3/002162da4cb456c875f5284dff4af6d1/transformed/jetified-firebase-database-20.0.1/AndroidManifest.xml:34:17-82
 62        </service>
 63
 64        <provider
-64-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-24:38
+64-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
 65            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
-65-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-88
+65-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
 66            android:authorities="com.musicplayerapp.reactnativefirebaseappinitprovider"
-66-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-86
+66-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
 67            android:exported="false"
-67-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
+67-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
 68            android:initOrder="99" /> <!-- The main service, handles playback, playlists and media buttons -->
-68-->[:react-native-firebase_app] E:\Avigma\MusicPlayerApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-35
+68-->[:react-native-firebase_app] /Users/avigma/Minal/Project/music player/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
 69        <service
-69-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-22:19
+69-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-22:19
 70            android:name="com.guichaguri.trackplayer.service.MusicService"
-70-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-75
+70-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-75
 71            android:enabled="true"
-71-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-35
+71-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-35
 72            android:exported="true" >
-72-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
+72-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-36
 73            <intent-filter>
-73-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+73-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
 74                <action android:name="android.intent.action.MEDIA_BUTTON" />
-74-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
-74-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
+74-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-77
+74-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-74
 75            </intent-filter>
 76        </service> <!-- A receiver that will receive media buttons. Required on pre-lollipop devices -->
 77        <receiver android:name="androidx.media.session.MediaButtonReceiver" >
-77-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:20
-77-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:19-76
+77-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:20
+77-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:19-76
 78            <intent-filter>
-78-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+78-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
 79                <action android:name="android.intent.action.MEDIA_BUTTON" />
-79-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
-79-->[:react-native-track-player] E:\Avigma\MusicPlayerApp\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
+79-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-77
+79-->[:react-native-track-player] /Users/avigma/Minal/Project/music player/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-74
 80            </intent-filter>
 81        </receiver>
 82
 83        <activity
-83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+83-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
 84            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+84-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
 85            android:excludeFromRecents="true"
-85-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+85-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
 86            android:exported="true"
-86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+86-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
 87            android:launchMode="singleTask"
-87-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+87-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
 88            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+88-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
 89            <intent-filter>
-89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+89-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
 90                <action android:name="android.intent.action.VIEW" />
-90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+90-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+90-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
 91
 92                <category android:name="android.intent.category.DEFAULT" />
-92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+92-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+92-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
 93                <category android:name="android.intent.category.BROWSABLE" />
-93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+93-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+93-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
 94
 95                <data
-95-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+95-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
 96                    android:host="firebase.auth"
-96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+96-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
 97                    android:path="/"
-97-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+97-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
 98                    android:scheme="genericidp" />
-98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+98-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
 99            </intent-filter>
 100        </activity>
 101        <activity
-101-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+101-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
 102            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-102-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+102-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
 103            android:excludeFromRecents="true"
-103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+103-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
 104            android:exported="true"
-104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+104-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
 105            android:launchMode="singleTask"
-105-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+105-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
 106            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-106-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+106-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
 107            <intent-filter>
-107-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+107-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
 108                <action android:name="android.intent.action.VIEW" />
-108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+108-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+108-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
 109
 110                <category android:name="android.intent.category.DEFAULT" />
-110-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-110-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+110-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+110-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
 111                <category android:name="android.intent.category.BROWSABLE" />
-111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+111-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+111-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
 112
 113                <data
-113-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+113-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
 114                    android:host="firebase.auth"
-114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+114-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
 115                    android:path="/"
-115-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+115-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
 116                    android:scheme="recaptcha" />
-116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+116-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
 117            </intent-filter>
 118        </activity>
 119
 120        <service
-120-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+120-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
 121            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-121-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+121-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
 122            android:enabled="true"
-122-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+122-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
 123            android:exported="false" >
-123-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+123-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
 124            <intent-filter>
-124-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+124-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
 125                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-125-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
-125-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+125-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+125-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
 126
 127                <category android:name="android.intent.category.DEFAULT" />
-127-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-127-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\admin\.gradle\caches\transforms-3\782f46167c3abdf4395492bbc0e8b13d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+127-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+127-->[com.google.firebase:firebase-auth:21.0.1] /Users/avigma/.gradle/caches/transforms-3/782f46167c3abdf4395492bbc0e8b13d/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
 128            </intent-filter>
 129        </service>
 130
 131        <provider
-131-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+131-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
 132            android:name="com.google.firebase.provider.FirebaseInitProvider"
-132-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+132-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
 133            android:authorities="com.musicplayerapp.firebaseinitprovider"
-133-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+133-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
 134            android:directBootAware="true"
-134-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+134-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
 135            android:exported="false"
-135-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+135-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
 136            android:initOrder="100" />
-136-->[com.google.firebase:firebase-common:20.0.0] C:\Users\admin\.gradle\caches\transforms-3\dfc172e13ac61f3210434dcbcf410699\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+136-->[com.google.firebase:firebase-common:20.0.0] /Users/avigma/.gradle/caches/transforms-3/dfc172e13ac61f3210434dcbcf410699/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
 137
 138        <activity
-138-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:23:9-27:75
+138-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
 139            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-139-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:24:13-93
+139-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
 140            android:excludeFromRecents="true"
-140-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:25:13-46
+140-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
 141            android:exported="false"
-141-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:26:13-37
+141-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
 142            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-142-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:27:13-72
+142-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
 143        <!--
 144            Service handling Google Sign-In user revocation. For apps that do not integrate with
 145            Google Sign-In, this service will never be started.
 146        -->
 147        <service
-147-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:33:9-37:51
+147-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
 148            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-148-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:34:13-89
+148-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
 149            android:exported="true"
-149-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:35:13-36
+149-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
 150            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-150-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:36:13-107
+150-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
 151            android:visibleToInstantApps="true" />
-151-->[com.google.android.gms:play-services-auth:19.2.0] C:\Users\admin\.gradle\caches\transforms-3\4d0675d71e8583fea6be727fb4850676\transformed\jetified-play-services-auth-19.2.0\AndroidManifest.xml:37:13-48
+151-->[com.google.android.gms:play-services-auth:19.2.0] /Users/avigma/.gradle/caches/transforms-3/4d0675d71e8583fea6be727fb4850676/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
 152
 153        <activity
-153-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\aa5a54800d22cdd63bcce0bb1096c169\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+153-->[com.google.android.gms:play-services-base:17.5.0] /Users/avigma/.gradle/caches/transforms-3/aa5a54800d22cdd63bcce0bb1096c169/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
 154            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-154-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\aa5a54800d22cdd63bcce0bb1096c169\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+154-->[com.google.android.gms:play-services-base:17.5.0] /Users/avigma/.gradle/caches/transforms-3/aa5a54800d22cdd63bcce0bb1096c169/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
 155            android:exported="false"
-155-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\aa5a54800d22cdd63bcce0bb1096c169\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+155-->[com.google.android.gms:play-services-base:17.5.0] /Users/avigma/.gradle/caches/transforms-3/aa5a54800d22cdd63bcce0bb1096c169/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
 156            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-156-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\aa5a54800d22cdd63bcce0bb1096c169\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+156-->[com.google.android.gms:play-services-base:17.5.0] /Users/avigma/.gradle/caches/transforms-3/aa5a54800d22cdd63bcce0bb1096c169/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
 157
 158        <meta-data
-158-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\1aa15065bc7638c8fd6236fcaaf00edc\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+158-->[com.google.android.gms:play-services-basement:17.5.0] /Users/avigma/.gradle/caches/transforms-3/1aa15065bc7638c8fd6236fcaaf00edc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
 159            android:name="com.google.android.gms.version"
-159-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\1aa15065bc7638c8fd6236fcaaf00edc\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+159-->[com.google.android.gms:play-services-basement:17.5.0] /Users/avigma/.gradle/caches/transforms-3/1aa15065bc7638c8fd6236fcaaf00edc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
 160            android:value="@integer/google_play_services_version" />
-160-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\admin\.gradle\caches\transforms-3\1aa15065bc7638c8fd6236fcaaf00edc\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+160-->[com.google.android.gms:play-services-basement:17.5.0] /Users/avigma/.gradle/caches/transforms-3/1aa15065bc7638c8fd6236fcaaf00edc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
 161    </application>
 162
 163</manifest>
